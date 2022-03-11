@@ -1,0 +1,7 @@
+name: OneHundred
+version: '${version}'
+main: com.sky.hibari.onehundred.OneHundred
+api-version: 1.16
+commands:
+  one-hundred:
+    description: /one-hundred
