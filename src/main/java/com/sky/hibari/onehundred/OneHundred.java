@@ -54,9 +54,4 @@ public final class OneHundred extends JavaPlugin {
         );
         getCommand("one-hundred").setExecutor(new CommandOneHundred());
     }
-
-    @Override
-    public void onDisable() {
-        // Plugin shutdown logic
-    }
 }
